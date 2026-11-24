@@ -1,0 +1,17 @@
+# Hexo 生成产物
+public/
+
+# 依赖目录
+node_modules/
+
+# 日志与临时文件
+debug/
+*.log
+.tmp/
+
+# Hexo 本地数据库
+db.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
