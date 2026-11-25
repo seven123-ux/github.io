@@ -843,8 +843,8 @@ font:
 
 # Font settings for the site title and site subtitle
 blog_title_font:
-  font_link:
-  font_family:
+  font_link: "https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap"
+  font_family: "'Dancing Script', 'Segoe Script', 'Bradley Hand', cursive"
 
 # The setting of divider icon
 hr_icon:
