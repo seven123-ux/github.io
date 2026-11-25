@@ -3,11 +3,11 @@
   const pre = document.createElement('div');
   pre.id = 'preloader';
   pre.innerHTML = `
-    <svg class="taiji" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-label="阴阳鱼">
-      <circle cx="50" cy="50" r="45" fill="#ffffff" stroke="#000000" stroke-width="3"/>
-      <path d="M50 5 A45 45 0 0 1 50 95 A22.5 22.5 0 0 1 50 50 A22.5 22.5 0 0 0 50 5 Z" fill="#000000"/>
-      <circle cx="50" cy="27.5" r="7.5" fill="#000000"/>
-      <circle cx="50" cy="72.5" r="7.5" fill="#ffffff"/>
+    <svg class="taiji" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-label="太极双鱼">
+      <circle cx="50" cy="50" r="46" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+      <path d="M50 4 A46 46 0 0 1 50 96 A23 23 0 0 1 50 50 A23 23 0 0 0 50 4 Z" fill="#000000"/>
+      <circle cx="50" cy="27" r="8" fill="#000000"/>
+      <circle cx="50" cy="73" r="8" fill="#ffffff"/>
     </svg>
     <div class="pre-text">演化中...</div>`;
   document.body.appendChild(pre);
